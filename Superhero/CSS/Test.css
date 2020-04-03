@@ -1,0 +1,17 @@
+body{background-color: #FDD385}
+
+h1{
+font-size: 45px;
+color: #5872F5;}
+
+.big {
+font-size: 75px;
+}
+
+h2{ 
+font-size:30;
+color: salmon; }
+
+.uppercase {text-transform: uppercase;}
+
+.big.uppercase {color: red;}
